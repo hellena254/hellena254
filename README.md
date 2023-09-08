@@ -5,13 +5,6 @@
 I'm a passionate developer who loves learning how to craft clean, efficient, and innovative code. 
 - Fun fact: I think I'm funny.
 
-## Tech Stack
-
-🚀 Languages:Java, JavaScript
-💻 Frameworks: Angular
-🎨 Frontend: HTML, CSS, SCSS
-🔧 Tools: Git, VS Code, IntelliJ IDEA
-
 ## Contact Me
 
 📬 Feel free to reach out to me for collaboration, questions, or just to say hi!
